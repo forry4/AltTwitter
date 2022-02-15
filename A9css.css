@@ -1,0 +1,37 @@
+h1 {
+    font-size: 75%;
+}
+
+button {
+    padding-right: 0.25rem;
+}
+
+div.body {
+    width: 80%;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-top-color: blue;
+    border-bottom-color: blue;
+    background-color: mistyrose;
+    border-radius: 5px;
+}
+
+.test{
+    padding: 5px;
+}
+
+.content{
+    width: 40%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    border-collapse: separate;
+    background-color: rgb(184, 194, 206);
+    margin: 8px;
+}
+
+div.background {
+    background-color: powderblue;
+  }
